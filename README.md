@@ -50,7 +50,7 @@ with:
 3. [Time-locked Wallets: An Introduction to Ethereum Smart Contracts](https://www.toptal.com/ethereum-smart-contract/time-locked-wallet-truffle-tutorial)
 4. [The Ultimate ENS and ĐApp Tutorial](https://www.toptal.com/ethereum/ethereum-name-service-dapp-tutorial)
 5. [Ultimate Introduction to Ethereum Ðapp Development](https://www.youtube.com/playlist?list=PLV1JDFUtrXpFh85G-Ddyy2kLSafaB9biQ) (Est. time: 4 hs)
-6. [Ethernaut](https://ethernaut.zeppelin.solutions/) is a Web3/Solidity based wargame for those interested in learning ethereum
+6. [Ethernaut](https://ethernaut.openzeppelin.com/) is a Web3/Solidity based wargame for those interested in learning ethereum
 
 ## Courses
 
