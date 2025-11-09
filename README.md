@@ -40,8 +40,7 @@ with:
    on smart contracts development. (Est. time: 15 minutes)
 3. Learn about hardhat [Hardhat Documentation](https://hardhat.org/getting-started/)
 4. Read the [Web3 Documentation](https://web3js.readthedocs.io/en/1.0/) / [Ethers Documentation](https://docs.ethers.io/v5/)
-5. Book [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook)
-6. Set of learning resources from [ethereum.org](https://ethereum.org/en/learn/)
+5. Set of learning resources from [ethereum.org](https://ethereum.org/en/learn/)
 
 #### Practice
 
