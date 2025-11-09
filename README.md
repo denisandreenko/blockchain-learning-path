@@ -57,6 +57,7 @@ with:
 2. Free tutorial [Learning Solidity](https://github.com/willitscale/learning-solidity)
 3. Abc-71 course [gitbook.io](https://abc-71.gitbook.io/curriculum)
 4. FreeCodeCamp course [Learn Blockchain, Solidity, and Full Stack Web3 Development with JavaScript](https://www.youtube.com/watch?v=gyMwXuJrbJQ) (32 hours)
+5. [Web3 University](https://www.web3.university/)
 
 ## Concepts
 
